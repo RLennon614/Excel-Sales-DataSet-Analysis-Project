@@ -30,6 +30,7 @@ This project showcases practical application of the following Excel functions an
 age" src="https://github.com/user-attachments/assets/1e343e4d-74ab-4a28-b035-b90e2d9c5c82" />
 
 | **`VLOOKUP`** | Retrieving data from a specific column in a table based on a matching value in the first column. |
+<img width="794" height="228" alt="image" src="https://github.com/user-attachments/assets/0604d6c6-aeba-4b14-ad3f-fddd063345a3" />
 
 ### II. Data Analysis & Visualization
 
@@ -46,6 +47,7 @@ age" src="https://github.com/user-attachments/assets/1e343e4d-74ab-4a28-b035-b90
 
 * **Formatting:** Applied various cell and conditional formatting techniques to enhance data readability, highlight key insights, and improve overall presentation.
 <img width="585" height="408" alt="image" src="https://github.com/user-attachments/assets/1862e6b9-2650-4417-ad74-8dc7a55c2725" />
+<img width="670" height="431" alt="image" src="https://github.com/user-attachments/assets/b5e19286-c1be-47ea-a93f-9d0f83f13ed9" />
 
 ---
 
